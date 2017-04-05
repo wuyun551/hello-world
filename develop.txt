@@ -1,1 +1,4 @@
 develop branch commits
+vue notes:
+  computed 有缓存；
+  watch 无缓存；
